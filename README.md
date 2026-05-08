@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=E11D48&center=true&vCenter=true&width=1000&lines=Scaling+Ideas+Into+Systems;ERP+%2F+Automation+%2F+Inventory+Platforms;FastAPI+%7C+React+%7C+Odoo+%7C+Cloud;Your+Friendly+Neighborhood+Developer+🕸️" />
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTltaTVzZGc3c3NrbjI5eHp0MGRhenIwd3d6ZzNqOThnMWR2djFrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif" width="100%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZseWc2ZG1zbzdjZTljb3kyeWdidThsZ29lZnRoOTlzODNoZXM3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yk211oEXnbpH00Tgv3/giphy.gif" width="100%" />
 
 ---
 
