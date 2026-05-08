@@ -105,7 +105,7 @@ Currently building:
   <img src="https://img.shields.io/badge/Instagram-E11D48?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/pierce-doman">
+<a href="https://tt.linkedin.com/in/pierce-doman-707002331">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
