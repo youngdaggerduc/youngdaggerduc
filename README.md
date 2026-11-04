@@ -28,11 +28,12 @@ Open To: Full-time · Freelance · Remote
 
 Currently building:
 
-* 🏗️ Inventory & rental tracking systems for scaffolding operations
+* 🛡️ A modular security operations platform: guard handovers, incident reports, NFC/GPS patrol checkpoints and multi-site admin
 * 📚 Training management platforms with certification verification
 * ⚡ Odoo ERP implementations replacing legacy systems
+* 🏗️ Inventory & rental tracking systems for scaffolding operations
 * ☁️ Scalable cloud deployments using FastAPI + React
-* 🌐 High-performance web platforms with modern infrastructure
+* 🤖 AI-powered features: RAG pipelines, agents and workflow automation
 
 ---
 
