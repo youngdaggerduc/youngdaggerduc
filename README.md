@@ -1,6 +1,6 @@
 # 🕷️💻 Pierce Doman | Full-Stack Developer & Systems Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=E11D48&center=true&vCenter=true&width=1000&lines=Scaling+Ideas+Into+Systems;ERP+%2F+Automation+%2F+Inventory+Platforms;FastAPI+%7C+React+%7C+Odoo+%7C+Cloud;Your+Friendly+Neighborhood+Developer+🕸️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=E11D48&center=true&vCenter=true&width=1000&lines=Scaling+Ideas+Into+Systems;ERP+%2F+Automation+%2F+Inventory+Platforms;FastAPI+%7C+React+%7C+Odoo+%7C+Cloud;AI+Engineering+%7C+RAG+%7C+Agents;Your+Friendly+Neighborhood+Developer+🕸️" />
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZseWc2ZG1zbzdjZTljb3kyeWdidThsZ29lZnRoOTlzODNoZXM3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yk211oEXnbpH00Tgv3/giphy.gif" width="100%" />
 
