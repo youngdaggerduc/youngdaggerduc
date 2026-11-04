@@ -190,6 +190,10 @@ Currently building:
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://piercedoman.com/pierce-doman-resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-18181B?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+</a>
+
 </p>
 
 ---
