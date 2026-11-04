@@ -215,7 +215,7 @@ Currently building:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=red&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=youngdaggerduc&color=red&style=for-the-badge"/>
 </p>
 
 ---
