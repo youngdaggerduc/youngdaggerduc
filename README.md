@@ -91,10 +91,10 @@ Currently building:
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| **Training Management System** | Enquiries → enrollment → payments → certificates, with expiry tracking & recertification | React · FastAPI · PostgreSQL · Tortoise ORM · JWT | 🟢 In production |
-| **Security Operations Platform** | Guard handovers, incident reports, patrol-map editor, NFC/GPS checkpoints | React · FastAPI · PostgreSQL | 🟡 In development |
-| **Odoo ERP Implementation** | Full rollout + custom modules, data migration & process redesign | Odoo · Python · XML · PostgreSQL | 🟢 Shipped |
-| **[rhatt.com](https://rhatt.com)** | Radian corporate website redevelopment | WordPress · PHP | 🟢 Live |
+| **Training Management System** | Multi-country (TT · Guyana · Suriname) lead CRM → payments → invoicing & VAT → certificates & recertification, plus a student/company portal | React · FastAPI · PostgreSQL · Tortoise ORM · JWT | 🟢 In production |
+| **Security Operations Platform** | Admin command center + mobile guard app: patrol-map editor, NFC checkpoints, live GPS, incidents, real-time alerts | React · FastAPI · PostgreSQL · WebSockets · S3 | 🟡 In development |
+| **Odoo ERP Implementation** | Company-wide rollout + 7 custom modules (rental workflow, quotation templates, per-line pricelists…) | Odoo 19 · Python · XML · Odoo.sh | 🟢 In production |
+| **[rhatt.com](https://rhatt.com)** | Bespoke theme, ~1,700-product quote catalogue and "The Yard Hand" AI advisor (RAG) | WordPress · WooCommerce · PHP · OpenAI | 🟢 Live |
 | **[training.rhatt.com](https://training.rhatt.com)** | Course catalogue + public certificate checker | Web | 🟢 Live |
 | **[abscoltdtt.com](https://abscoltdtt.com)** | Freelance site for a T&T general contractor | WordPress · SEO | 🟢 Live |
 | **[lumierett.com](https://lumierett.com)** | Freelance build for a restaurant & club | React · Node.js · PostgreSQL · Stripe | 🟢 Live |
