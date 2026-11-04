@@ -307,6 +307,8 @@ Current Focus:
   - Odoo Customization
   - Inventory Automation
   - Enterprise Workflow Design
+  - AI Agents & RAG Pipelines
+  - AWS Certification Prep
 ```
 
 ---
