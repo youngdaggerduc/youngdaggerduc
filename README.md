@@ -46,6 +46,8 @@ Currently building:
 ```diff
 + Building enterprise-grade workflow systems
 + Designing scalable backend architectures
++ Preparing for AWS Certified Cloud Practitioner & AI Practitioner
++ Levelling up in AI engineering: LLMs, RAG, agents & MCP
 + Learning advanced networking & infrastructure
 + Studying CCNA and system optimization
 + Exploring cloud object storage & deployment pipelines
