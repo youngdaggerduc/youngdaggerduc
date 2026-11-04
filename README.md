@@ -98,6 +98,8 @@ Currently building:
 | **[training.rhatt.com](https://training.rhatt.com)** | Course catalogue + public certificate checker | Web | 🟢 Live |
 | **[abscoltdtt.com](https://abscoltdtt.com)** | Freelance site for a T&T general contractor | WordPress · SEO | 🟢 Live |
 | **[lumierett.com](https://lumierett.com)** | Freelance build for a restaurant & club | React · Node.js · PostgreSQL · Stripe | 🟢 Live |
+| **Radian Tower Stacker** | 3D scaffolding stacker arcade game for Radian's conference booth kiosk | Three.js · React · FastAPI | 🟢 Shipped |
+| **PierceBrain** | AI second brain: an Obsidian vault maintained by Claude Code, rendered as a neural-map graph | Claude Code · Obsidian · Python | 🟢 In daily use |
 | **[piercedoman.com](https://piercedoman.com)** | This Spider-Verse portfolio, with a RAG chatbot & AI games | React · GSAP · three.js · FastAPI | 🟢 Live |
 
 ---
