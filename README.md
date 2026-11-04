@@ -55,6 +55,38 @@ Currently building:
 
 ---
 
+# 💼 Field Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🕸️ Radian H.A. Limited
+**Business Process Analyst** · *Apr 2025 – Present*
+
+* Rescued and delivered **5 previously stalled initiatives**, from requirements through rollout and adoption
+* Spearheaded an **organization-wide Odoo ERP rollout** across Sales, Rental, Inventory, Purchasing, Accounting, CRM & Reporting
+* Designed and built the **Training Management System** (React · FastAPI · PostgreSQL)
+* Led the corporate **website redevelopment** and built a dedicated **training site** with a public certificate checker
+* Introduced AI & automation tools and trained staff on adoption
+
+</td>
+<td width="50%" valign="top">
+
+### 🕸️ Pyramid Engineering Limited
+**Operations Coordinator** · *Sep 2024 – Apr 2025*
+
+* Tracked offshore crane operator performance against client KPIs and contract requirements
+* Built an internal **inventory-tracking system** for stock visibility and material records
+* Ran daily operational reporting: checklists, incident reports and action logs
+* Processed purchase orders, offshore payroll and invoices
+
+</td>
+</tr>
+</table>
+
+---
+
 # 🧠 Tech Arsenal
 
 <p align="center">
