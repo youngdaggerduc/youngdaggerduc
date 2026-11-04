@@ -87,6 +87,21 @@ Currently building:
 
 ---
 
+# 🗂️ Case Files
+
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| **Training Management System** | Enquiries → enrollment → payments → certificates, with expiry tracking & recertification | React · FastAPI · PostgreSQL · Tortoise ORM · JWT | 🟢 In production |
+| **Security Operations Platform** | Guard handovers, incident reports, patrol-map editor, NFC/GPS checkpoints | React · FastAPI · PostgreSQL | 🟡 In development |
+| **Odoo ERP Implementation** | Full rollout + custom modules, data migration & process redesign | Odoo · Python · XML · PostgreSQL | 🟢 Shipped |
+| **[rhatt.com](https://rhatt.com)** | Radian corporate website redevelopment | WordPress · PHP | 🟢 Live |
+| **[training.rhatt.com](https://training.rhatt.com)** | Course catalogue + public certificate checker | Web | 🟢 Live |
+| **[abscoltdtt.com](https://abscoltdtt.com)** | Freelance site for a T&T general contractor | WordPress · SEO | 🟢 Live |
+| **[lumierett.com](https://lumierett.com)** | Freelance build for a restaurant & club | React · Node.js · PostgreSQL · Stripe | 🟢 Live |
+| **[piercedoman.com](https://piercedoman.com)** | This Spider-Verse portfolio, with a RAG chatbot & AI games | React · GSAP · three.js · FastAPI | 🟢 Live |
+
+---
+
 # 🧠 Tech Arsenal
 
 <p align="center">
