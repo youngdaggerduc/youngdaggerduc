@@ -102,6 +102,29 @@ Currently building:
 
 ---
 
+# 🏅 Badges & Certificates
+
+<p align="center">
+  <img src="https://piercedoman.com/badges/aws-simulearn-cloud-400.webp" width="130" alt="AWS SimuLearn: Cloud Practitioner badge" />
+  &nbsp;&nbsp;
+  <img src="https://piercedoman.com/badges/aws-simulearn-ai-400.webp" width="130" alt="AWS SimuLearn: AI Practitioner badge" />
+</p>
+
+```txt
+✅ AWS SimuLearn: Cloud Practitioner ............ AWS Training & Certification  2026
+✅ AWS SimuLearn: AI Practitioner ............... AWS Training & Certification  2026
+✅ AWS Cloud Practitioner Essentials ............ AWS Training & Certification  2026
+✅ AI Engineer Agentic Track: Agents & MCP ...... Udemy                         2026
+✅ AI Engineer Core Track: LLM, RAG, QLoRA ...... Udemy                         2026
+✅ FastAPI: The Complete Course ................. Udemy                         2026
+✅ Foundational C# with Microsoft ............... freeCodeCamp                  2025
+✅ Six Sigma White Belt ......................... Educate 360                   2025
+⏳ AWS Certified Cloud Practitioner ............. in progress
+⏳ AWS Certified AI Practitioner ................ in progress
+```
+
+---
+
 # 🧠 Tech Arsenal
 
 <p align="center">
