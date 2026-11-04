@@ -11,16 +11,20 @@
 ```yaml
 Name: Pierce Doman
 Role: Business Process Analyst & Full-Stack Developer
+Company: Radian H.A. Limited (Apr 2025 – Present)
 Location: Trinidad & Tobago 🇹🇹
+Education: BSc Computer Science (Special), Second Class Honours — UWI St. Augustine
 Focus:
   - ERP Systems
   - Automation
   - Inventory & Rental Platforms
   - Training Management Systems
   - Cloud Infrastructure
+  - AI Engineering
+Open To: Full-time · Freelance · Remote
 ```
 
-🕷️ I specialize in transforming outdated manual workflows into scalable digital systems.
+🕷️ I specialize in transforming outdated, paper-based workflows into scalable digital systems — owning everything from business requirements and stakeholder alignment to the build, deployment and staff adoption.
 
 Currently building:
 
