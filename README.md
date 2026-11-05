@@ -65,7 +65,8 @@ Currently building:
 **Business Process Analyst** · *Apr 2025 – Present*
 
 * Rescued and delivered **5 previously stalled initiatives**, from requirements through rollout and adoption
-* Spearheaded an **organization-wide Odoo ERP rollout** across Sales, Rental, Inventory, Purchasing, Accounting, CRM & Reporting
+* Led the internal **Odoo ERP rollout** off a failing legacy system: comparable quotes went from **~45–60 min to ~2–8 min**
+* Reconciled a large **industrial rental job** across thousands of records so both sides agreed the bill and it closed and was paid
 * Designed and built the **Training Management System** (React · FastAPI · PostgreSQL)
 * Led the corporate **website redevelopment** and built a dedicated **training site** with a public certificate checker
 * Introduced AI & automation tools and trained staff on adoption
@@ -76,7 +77,8 @@ Currently building:
 ### 🕸️ Pyramid Engineering Limited
 **Operations Coordinator** · *Sep 2024 – Apr 2025*
 
-* Tracked offshore crane operator performance against client KPIs and contract requirements
+* Coordinated **offshore crane operations for Perenco**: operators, client reps, time tickets and KPIs
+* Sourced and followed up on replacement crane parts with maintenance and technical teams
 * Built an internal **inventory-tracking system** for stock visibility and material records
 * Ran daily operational reporting: checklists, incident reports and action logs
 * Processed purchase orders, offshore payroll and invoices
@@ -91,9 +93,10 @@ Currently building:
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
-| **Training Management System** | Multi-country (TT · Guyana · Suriname) lead CRM → payments → invoicing & VAT → certificates & recertification, plus a student/company portal | React · FastAPI · PostgreSQL · Tortoise ORM · JWT | 🟢 In production |
-| **Security Operations Platform** | Admin command center + mobile guard app: patrol-map editor, NFC checkpoints, live GPS, incidents, real-time alerts | React · FastAPI · PostgreSQL · WebSockets · S3 | 🟡 In development |
-| **Odoo ERP Implementation** | Company-wide rollout + 7 custom modules (rental workflow, quotation templates, per-line pricelists…) | Odoo 19 · Python · XML · Odoo.sh | 🟢 In production |
+| **Training Management System** | Built for TT · Guyana · Suriname (live in TT): lead CRM → payments → invoicing & VAT → certificates & recertification, plus a student/company portal | React · FastAPI · PostgreSQL · Tortoise ORM · JWT | 🟢 In production |
+| **Security Operations Platform** | Admin command center + mobile guard app: patrol-map editor, NFC checkpoints, live GPS, incidents, real-time alerts | React · FastAPI · PostgreSQL · WebSockets · S3 | 🟡 Awaiting deployment approval |
+| **Odoo ERP Rollout** | Led the move off a failing MS Access system: requirements, data cleanup, vendor coordination, training; quotes 45–60 min → 2–8 min | Odoo 19 · Python · XML · Odoo.sh | 🟢 In production |
+| **Industrial Rental Reconciliation** | Cross-checked thousands of rental lines against delivery notes & picking tickets; agreed close-out, job paid | Excel · Data Reconciliation | ✅ Closed |
 | **[rhatt.com](https://rhatt.com)** | Bespoke theme, ~1,700-product quote catalogue and "The Yard Hand" AI advisor (RAG) | WordPress · WooCommerce · PHP · OpenAI | 🟢 Live |
 | **[training.rhatt.com](https://training.rhatt.com)** | Course catalogue + public certificate checker | Web | 🟢 Live |
 | **[abscoltdtt.com](https://abscoltdtt.com)** | Freelance site for a T&T general contractor | WordPress · SEO | 🟢 Live |
